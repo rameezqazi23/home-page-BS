@@ -1,0 +1,182 @@
+/* @media only screen and (max-width: 600px){
+
+    body{
+
+        background-color: lightblue;
+    } 
+
+}*/
+
+/* @media only screen and (max-width:600px){
+
+    img{
+
+        width: 400px;
+    }
+} */
+
+/* .one, .two ,.three{
+
+    text-align: center;
+    width: 250px;
+    background-color: cornflowerblue;
+    color: white;
+    width: 200px;
+    padding: 5px;
+
+}
+
+
+.main{
+    display: flex;
+    flex: row;
+    justify-content: space-around;
+
+    flex-wrap: wrap;
+}
+
+div.row{
+    justify-content: center;
+} */
+
+/* *{
+    font-family: 'Product', Google Sans;
+} */
+
+a{
+    text-decoration: none;
+}
+div.social{
+    color: white;
+}
+
+.navigation-buttons a{
+
+    border-radius: 20px !important;
+    
+    
+}
+
+.about:hover, .services:hover, .f-projects:hover, .nav-media:hover, .news:hover, .donation:hover,.contact:hover{
+
+    background-color: rgb(38, 163, 38);
+    color: white !important;
+    border-radius: 20px;
+    
+}
+
+.news-section{
+    color: rgb(33, 235, 33);
+}
+.details-section{
+
+    color: blue;
+}
+.separator{
+    width: 70px;
+    height: 2px;
+    background-color: rgb(26, 134, 26);
+    display: block;
+}
+.heading-separator1{
+    width: 40px;
+    height: 1.5px;
+    background-color: rgb(26, 134, 26);
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    left: 480px;
+}
+
+.heading-separator2{
+    width: 40px;
+    height: 1.5px;
+    background-color: rgb(26, 134, 26);
+    display: flex;
+    position: relative;
+    right: 170px;
+
+}
+
+
+
+.heading-separator3{
+    width: 40px;
+    height: 1.5px;
+    background-color: rgb(26, 134, 26);
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    left: 540px;
+}
+
+.heading-separator4{
+    width: 40px;
+    height: 1.5px;
+    background-color: rgb(26, 134, 26);
+    display: flex;
+    position: relative;
+    right: 190px;
+
+}
+
+
+
+
+.introduction-paragraph{
+    opacity: 0.75;
+    font-size: 0.98rem;
+    
+    
+}
+.bg-changes{
+    background-color: rgb(247, 247, 247);
+
+}
+
+.milestones{
+    background-color: rgb(0, 87, 248);
+}
+.custom-box{
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+}
+li{
+    list-style: none;
+
+}
+.box-custom-bg{
+    background-color: rgb(245, 245, 245);
+}
+.image-gallery-images:hover{
+
+    opacity: 0.4;
+
+}
+.footer-section{
+    background-color: #292828;
+}
+#footer-social-icon{
+
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    
+}
+.contact-info-section{
+
+    opacity: 0.6;
+    font-size: 0.9em;
+    line-height: 28px;
+}
+footer{
+    font-size: 0.8rem;
+
+}
+
+
+
+
+
+
+
